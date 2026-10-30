@@ -1,0 +1,3 @@
+numpy>=1.26
+scipy>=1.11
+# on the vehicle: kiss-icp, rosbags
